@@ -1,0 +1,15 @@
+form div {
+  border: 1px solid black;
+  margin-right: 60%;
+  margin-bottom: 5px;
+  padding: 40px;
+}
+
+label {
+  display: block;
+  float: left;
+  width: 150px;
+  text-align: center;
+  font-weight: bold;
+  margin-right: 10px;
+}
